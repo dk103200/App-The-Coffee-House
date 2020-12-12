@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_marginLeft="15dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+        <androidx.cardview.widget.CardView
+            app:cardCornerRadius="10dp"
+            android:layout_width="280dp"
+            android:layout_height="300dp"
+            android:background="#fff">
+
+            <ImageView
+                android:id="@+id/img_uudai"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:scaleType="centerCrop"
+                android:background="@drawable/uudai1" />
+
+            <TextView
+                android:id="@+id/tv_uudai"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="120dp"
+                android:padding="15dp"
+                android:layout_gravity="center_horizontal"
+                android:text="Single Day-Nhà mời 3 ly ngon nhất ngất ngây chỉ 111k. Nhập mã SAPCOBO tại app. Nhà mời ngay ưu đãi..."
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="120dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="10dp"
+                android:gravity="center"
+                android:layout_marginTop="230dp"
+                android:background="@drawable/button"
+                android:text="Chi tiết"
+                android:textSize="16sp"
+                android:textColor="@color/colorPrimaryDark" />
+
+        </androidx.cardview.widget.CardView>
+</RelativeLayout>

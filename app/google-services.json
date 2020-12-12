@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "158817668402",
+    "firebase_url": "https://firstandroidtest-ac39f.firebaseio.com",
+    "project_id": "firstandroidtest-ac39f",
+    "storage_bucket": "firstandroidtest-ac39f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158817668402:android:862d0806ec4a9404461b2b",
+        "android_client_info": {
+          "package_name": "com.example.thecoffeehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158817668402-o2gpuef6m18mk6jvsgkpnas3iqon0m3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUoJqn0JtmWxlZPW8WfaOpl48M4QmCsRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158817668402-o2gpuef6m18mk6jvsgkpnas3iqon0m3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
